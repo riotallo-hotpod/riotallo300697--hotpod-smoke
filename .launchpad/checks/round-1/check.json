@@ -1,0 +1,9 @@
+{
+  "name": "round 1: hello and world",
+  "run": "node .launchpad/checks/round-1/run.mjs",
+  "timeoutSeconds": 120,
+  "tests": [
+    "hello prints hello",
+    "world prints world"
+  ]
+}

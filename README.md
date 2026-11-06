@@ -1,2 +1,3 @@
-# hotpod-smoke
-Smoke test target for the Hotpod GitHub Apps of hotpod-orchestration.vercel.app (pull requests here are opened and closed by the platform's test)
+# Hotpod rehearsal
+
+A rehearsal pod of Hotpod's orchestrated mode, built by deterministic stub agents (no model): see `.launchpad/project.md`.
