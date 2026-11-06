@@ -1,0 +1,8 @@
+{
+  "name": "round 2: shout",
+  "run": "node .launchpad/checks/round-2/run.mjs",
+  "timeoutSeconds": 120,
+  "tests": [
+    "shout prints HELLO WORLD"
+  ]
+}
